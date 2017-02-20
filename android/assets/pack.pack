@@ -1,0 +1,194 @@
+
+pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boss1
+  rotate: false
+  xy: 1, 310
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+sharkMissileFront
+  rotate: false
+  xy: 1, 108
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+sharkMissile_v2
+  rotate: false
+  xy: 303, 310
+  size: 225, 200
+  orig: 225, 200
+  offset: 0, 0
+  index: -1
+ballistic_icon
+  rotate: false
+  xy: 303, 108
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cracked_glass
+  rotate: false
+  xy: 530, 310
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+modal
+  rotate: false
+  xy: 1, 6
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+phaseMissile
+  rotate: false
+  xy: 505, 158
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+boss_3_ship
+  rotate: false
+  xy: 732, 410
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+explosion
+  rotate: false
+  xy: 203, 81
+  size: 125, 25
+  orig: 125, 25
+  offset: 0, 0
+  index: -1
+soundButton
+  rotate: false
+  xy: 732, 358
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+smissile
+  rotate: false
+  xy: 884, 460
+  size: 75, 50
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+spiralMissile
+  rotate: false
+  xy: 203, 29
+  size: 75, 50
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+HealthBar
+  rotate: false
+  xy: 505, 151
+  size: 104, 5
+  orig: 104, 5
+  offset: 0, 0
+  index: -1
+basicMissile
+  rotate: false
+  xy: 330, 81
+  size: 75, 25
+  orig: 75, 25
+  offset: 0, 0
+  index: -1
+breakout
+  rotate: false
+  xy: 732, 331
+  size: 75, 25
+  orig: 75, 25
+  offset: 0, 0
+  index: -1
+fragMissile
+  rotate: false
+  xy: 884, 433
+  size: 75, 25
+  orig: 75, 25
+  offset: 0, 0
+  index: -1
+invinciMissile
+  rotate: false
+  xy: 280, 54
+  size: 75, 25
+  orig: 75, 25
+  offset: 0, 0
+  index: -1
+leaderboards_button
+  rotate: false
+  xy: 657, 280
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+menubuttons
+  rotate: false
+  xy: 961, 482
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+miniMissile
+  rotate: false
+  xy: 834, 393
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+missile_placeholders
+  rotate: false
+  xy: 505, 124
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+shell
+  rotate: false
+  xy: 407, 81
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+warning_basic
+  rotate: false
+  xy: 357, 54
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+warning_invinci
+  rotate: false
+  xy: 657, 253
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+warning_mini
+  rotate: false
+  xy: 203, 12
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Health
+  rotate: false
+  xy: 1, 1
+  size: 1, 3
+  orig: 1, 3
+  offset: 0, 0
+  index: -1
+HealthEnd
+  rotate: false
+  xy: 611, 153
+  size: 1, 3
+  orig: 1, 3
+  offset: 0, 0
+  index: -1
