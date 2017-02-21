@@ -12,8 +12,8 @@ In Eclipse...
 3. Select cloned repo destination as root directory for project
 4. Make sure all 5 projects are checked and click "Finish"
 5. For each project...
-  a. Right click the project in the side bar and Configure > Convert to Gradle project
-  b. Right click the project in the side bar and Gradle > Refresh all
+..1. Right click the project in the side bar and Configure > Convert to Gradle project
+..2. Right click the project in the side bar and Gradle > Refresh all
 
 ## Testing
 
