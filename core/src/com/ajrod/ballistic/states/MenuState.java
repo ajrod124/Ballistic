@@ -55,7 +55,7 @@ public class MenuState extends State {
 		else timer--;
 		if (timer == 0) {
 			gsm.set(new LevelOneState(gsm));
-			//gsm.set(new LevelThreeState(gsm, 1200));
+			//gsm.set(new TestState(gsm));
 			Ballistic.prefs.putBoolean("sound", Ballistic.soundOn);
 			Ballistic.prefs.flush();
 		}
