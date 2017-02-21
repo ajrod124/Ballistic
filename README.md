@@ -27,3 +27,7 @@ To effectively test changes...
 1. Comment out line 57 in MenuState.java
 2. Uncomment line 58 in MenuState.java
 3. Set the argument of gsm.set() to the state currently being tested
+
+To enable frame advance mode...
+
+1. Uncomment the IF statement in line 27 of GSM.java
